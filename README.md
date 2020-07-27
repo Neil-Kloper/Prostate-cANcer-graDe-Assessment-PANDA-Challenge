@@ -3,7 +3,7 @@ My teams entry in Kaggle's Prostate cANcer graDe Assessment (PANDA) Challenge co
 
 ### The pipeline for the competition:
 1. `image export.ipynb` to preprocess the images
-2. Densenet169_progressive_resize_343.ipynb and `Densenet_169_round_2.ipynb` are examples of model training notebooks (there are many similar notebooks that were also used to train the dozens of models we experimented with)
+2. `Densenet169_progressive_resize_343.ipynb` and `Densenet_169_round_2.ipynb` are examples of model training notebooks (there are many similar notebooks that were also used to train the dozens of models we experimented with)
 3. `Pandas-model-evaluaion-and-blend-selector.ipynb` was used to evaluate the performance of combinations of models (we used a blended approach for submissions)
 4. `final-submission.ipynb` the notebook for submitting our work to the competition.
  
