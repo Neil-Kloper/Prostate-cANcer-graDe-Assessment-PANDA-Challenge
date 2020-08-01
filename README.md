@@ -9,5 +9,5 @@ My teams entry in Kaggle's Prostate cANcer graDe Assessment (PANDA) Challenge co
  
 ### Other notebooks:
 * `threshold-expirements.ipynb` was used to test if manually tweaking the thresholds for each classification would improve performance. the difference was ultimately not significant enough to pursue further
-* `striplication.ipynb` This preprocessing method fills the empty whitespace in an image by taking image data from rotated versions of the image, unfortunately this wasn't used in our final pipeline. Showed great promise but we failed to implement it in time (see post mortem for full details)
+* `striplicate` This preprocessing method fills the empty whitespace in an image by taking image data from rotated versions of the image, unfortunately this wasn't used in our final pipeline. Showed great promise but we failed to implement it in time (see post mortem for full details)
 * `post-mortem`, this file is the writeup for our teams performance in the competition. what lessons we took away, what worked, what we would do better next time, and what opportunities did we miss.
